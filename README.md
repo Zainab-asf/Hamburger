@@ -1,2 +1,2 @@
 # Hamburger
-A hamburger menu icon created with pure HTML and CSS, styled to transform smoothly between open and closed states. Ideal for responsive web design without JavaScript.
+This is a simple hamburger menu design using only HTML and CSS. The icon is created with CSS pseudo-elements to form the three horizontal bars. It features a smooth transition between open and closed states for a better user experience. This design is lightweight and does not require JavaScript, making it perfect for minimalistic, responsive websites.A hamburger menu icon created with pure HTML and CSS, styled to transform smoothly between open and closed states. Ideal for responsive web design without JavaScript.
